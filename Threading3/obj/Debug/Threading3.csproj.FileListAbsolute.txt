@@ -1,0 +1,6 @@
+c:\users\soghos\documents\visual studio 2015\Projects\ThreadingCollection\Threading3\bin\Debug\Threading3.exe.config
+c:\users\soghos\documents\visual studio 2015\Projects\ThreadingCollection\Threading3\bin\Debug\Threading3.exe
+c:\users\soghos\documents\visual studio 2015\Projects\ThreadingCollection\Threading3\bin\Debug\Threading3.pdb
+c:\users\soghos\documents\visual studio 2015\Projects\ThreadingCollection\Threading3\obj\Debug\Threading3.csprojResolveAssemblyReference.cache
+c:\users\soghos\documents\visual studio 2015\Projects\ThreadingCollection\Threading3\obj\Debug\Threading3.exe
+c:\users\soghos\documents\visual studio 2015\Projects\ThreadingCollection\Threading3\obj\Debug\Threading3.pdb

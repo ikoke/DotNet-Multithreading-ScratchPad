@@ -1,0 +1,6 @@
+c:\users\soghos\documents\visual studio 2015\Projects\ThreadingCollection\Threading1\bin\Debug\Threading1.exe.config
+c:\users\soghos\documents\visual studio 2015\Projects\ThreadingCollection\Threading1\bin\Debug\Threading1.exe
+c:\users\soghos\documents\visual studio 2015\Projects\ThreadingCollection\Threading1\bin\Debug\Threading1.pdb
+c:\users\soghos\documents\visual studio 2015\Projects\ThreadingCollection\Threading1\obj\Debug\Threading1.csprojResolveAssemblyReference.cache
+c:\users\soghos\documents\visual studio 2015\Projects\ThreadingCollection\Threading1\obj\Debug\Threading1.exe
+c:\users\soghos\documents\visual studio 2015\Projects\ThreadingCollection\Threading1\obj\Debug\Threading1.pdb
